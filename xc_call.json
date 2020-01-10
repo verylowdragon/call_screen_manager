@@ -7,8 +7,8 @@
         "apps":[
               {
                   "icon":"url",
-                  "name":"appname",
-                  "pcg":"package"
+                  "name":"嗨来电秀秀",
+                  "pcg":"com.fullcallscreen.colorflash"
               }
         ]
     }
