@@ -1,0 +1,14 @@
+    {
+        "huawei":0,
+        "xiaomi":0,
+        "ali":0,
+        "tx":0,
+        "sll":0,
+        "apps":[
+              {
+                  "icon":"url",
+                  "name":"炫彩来电秀",
+                  "pcg":"color.flash.call.screen"
+              }
+        ]
+    }
